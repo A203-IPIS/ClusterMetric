@@ -1,8 +1,13 @@
 #  ClusterMetric
 ![image](https://github.com/A203-IPIS/ClusterMetric/blob/main/bundle%20profile.png)
 
+
 (a) displays the process of whole-brain finer parcellation and node identification. 
-(b) displays the atlas nodes. (c) displays the statistical results and the significant regions within  a cluster. 
+
+
+(b) displays the atlas nodes. 
+
+(c) displays the statistical results and the significant regions within  a cluster. 
 #  Dependance 
 This code depends on whitematteranalysis, Dipy, Fixel, BUAN, Mrtrix3, UKF Tracrography.
 
