@@ -9,7 +9,7 @@
 
 (c) displays the statistical results and the significant regions within  a cluster. 
 #  Dependance 
-This code depends on [whitematteranalysis](https://github.com/SlicerDMRI/whitematteranalysis), Dipy, Fixel, BUAN, Mrtrix3, UKF Tracrography.
+This code depends on [whitematteranalysis](https://github.com/SlicerDMRI/whitematteranalysis), [Dipy](https://dipy.org/), [Mrtrix3](https://mrtrix.readthedocs.io/en/latest/index.html), [UKF Tracrography](https://github.com/pnlbwh/ukftractography).
  
 #  Steps 
  (1) Whole-brain tractography using UKF['UKF_tractography.sh' ].
