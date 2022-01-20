@@ -18,10 +18,10 @@ This code depends on [whitematteranalysis](https://github.com/SlicerDMRI/whitema
  (2) Fiber parcellation['WMA_Parcellation.sh'] node identification using ClusterMetric[bundle_profile_example.py].
  
  
- (3)DTI and Fixel computation using Mrtrix3.
+ (3)DTI parameter and Fixel computation using Mrtrix3.
  
  
- (4)building bundle profiles and statistical analysis['bunbdle_profile.m'].
+ (4)Building bundle profiles and statistical analysis['bunbdle_profile.m'].
  
  (5) Marking the results ['Mark_significant_regions within_bundle.py']. 
 
