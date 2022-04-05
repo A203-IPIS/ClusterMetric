@@ -5,9 +5,9 @@
 (A) displays the process of whole-brain finer parcellation and node identification. 
 
 
-(B) displays the atlas nodes. 
+(B) displays the atlas nodes and the statistical results and the significant regions within  a cluster. 
 
-(c) displays the statistical results and the significant regions within  a cluster. 
+(c) displays the node identification in clusterometric analysis. 
 #  Dependance 
 This code depends on [whitematteranalysis](https://github.com/SlicerDMRI/whitematteranalysis), [Dipy](https://dipy.org/), [Mrtrix3](https://mrtrix.readthedocs.io/en/latest/index.html), [UKF Tracrography](https://github.com/pnlbwh/ukftractography).
  
