@@ -1,11 +1,11 @@
 #  ClusterMetric
-![image](https://github.com/A203-IPIS/ClusterMetric/blob/main/atlas_node%20-new.jpg)
+![image](https://github.com/A203-IPIS/ClusterMetric/blob/main/node_clusterometric.jpg)
 
 
-(a) displays the process of whole-brain finer parcellation and node identification. 
+(A) displays the process of whole-brain finer parcellation and node identification. 
 
 
-(b) displays the atlas nodes. 
+(B) displays the atlas nodes. 
 
 (c) displays the statistical results and the significant regions within  a cluster. 
 #  Dependance 
