@@ -1,5 +1,5 @@
 #  ClusterMetric
-![image](https://github.com/A203-IPIS/ClusterMetric/blob/main/bundle%20profile.png)
+![image](https://github.com/A203-IPIS/ClusterMetric/blob/main/atlas_node%20-new.jpg)
 
 
 (a) displays the process of whole-brain finer parcellation and node identification. 
